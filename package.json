@@ -1,5 +1,5 @@
 {
-  "name": "lyrical-graphql",
+  "name": "react-apollo-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -43,9 +43,6 @@
     }
   },
   "nodemonConfig": {
-    "ignore": [
-      "src/*",
-      "public/*"
-    ]
+    "ignore": ["src/*", "public/*"]
   }
 }
